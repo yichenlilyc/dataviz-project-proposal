@@ -45,7 +45,7 @@ The bar chart helps answer the second and third question. The player that has th
   * Drop down menu for Team (1 day)
 
 ## Iterations
-This iteration describe the players' wins/losses in the team. Instead of using the pie chart, I used the bar chart to show the total games that the player played and use differect color indexes to show the number of wins and losses.
+This iteration describe the players' wins/losses in the team. Instead of using the pie chart, I used the bar chart to show the total games that the player played and use different color indexes to show the number of wins and losses.
 [![img](https://user-images.githubusercontent.com/44181571/139180976-ec0a9197-663f-4e8e-877d-2d8dccba780b.png)](https://vizhub.com/yichenlilyc/539d25adc25942359d0cd205959603f0?edit=files&file=index.js)
 
 
