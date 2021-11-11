@@ -32,7 +32,7 @@ The bar chart helps answer the second and third question. The player that has th
   * Use differect hue to represent Eastern team and Western team
   * Drop down menu for y axis
   * Create a line for mean efficiency.
-* Visualization 2: Player's skill plot. (Oct 22)
+* Visualization 2: Player's skill plot. (Nov 24)
   * Create a spider plot for skill analyzation (2 days)
   * Create a bar chart to depict losses and wins (1 day)
   * Drop down menu for Team and Player (1 day)
@@ -45,8 +45,13 @@ The bar chart helps answer the second and third question. The player that has th
   * Drop down menu for Team (1 day)
 
 ## Iterations
-This iteration describe the players' wins/losses in the team. Instead of using the pie chart, I used the bar chart to show the total games that the player played and use different color indexes to show the number of wins and losses.
+This iteration describes the players' wins/losses in the team. Instead of using the pie chart, I used the bar chart to show the total games that the player played and use different color indexes to show the number of wins and losses.
 [![img](https://user-images.githubusercontent.com/44181571/139180976-ec0a9197-663f-4e8e-877d-2d8dccba780b.png)](https://vizhub.com/yichenlilyc/539d25adc25942359d0cd205959603f0?edit=files&file=index.js)
+
+This iteration describes the players' state in Bar chart. In this chart, the X-axis Represents the player's name. Users can use the dropdown menu to choose the team and filter the data. There is also a dropdown menu for the Y-axis representation. For the rebounds data, the bar is separeated into Offensive Rebounds and Defensive Rebounds.
+[![img](https://user-images.githubusercontent.com/44181571/141229232-c81b2f41-e227-4d7a-a842-8defe4ba5f22.png)](https://vizhub.com/yichenlilyc/584f1db67d254305aec291f72a296c8d?edit=files&file=index.html)
+
+
 
 
 
