@@ -51,6 +51,8 @@ This iteration describes the players' wins/losses in the team. Instead of using 
 This iteration describes the players' state in Bar chart. In this chart, the X-axis Represents the player's name. Users can use the dropdown menu to choose the team and filter the data. There is also a dropdown menu for the Y-axis representation. For the rebounds data, the bar is separeated into Offensive Rebounds and Defensive Rebounds.
 [![img](https://user-images.githubusercontent.com/44181571/141229232-c81b2f41-e227-4d7a-a842-8defe4ba5f22.png)](https://vizhub.com/yichenlilyc/584f1db67d254305aec291f72a296c8d?edit=files&file=index.html)
 
+This iteration describes the players' performances in gaining points, rebounds, turnovers, blocks, steals and assists. The data is visualized in spider chart. The drop down menu can help quickly filter the players by team.
+[![img](https://user-images.githubusercontent.com/44181571/142353718-15cc3f28-d45e-4838-b03c-08672320f400.png)
 
 
 
