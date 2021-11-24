@@ -52,7 +52,7 @@ This iteration describes the players' state in Bar chart. In this chart, the X-a
 [![img](https://user-images.githubusercontent.com/44181571/141229232-c81b2f41-e227-4d7a-a842-8defe4ba5f22.png)](https://vizhub.com/yichenlilyc/584f1db67d254305aec291f72a296c8d?edit=files&file=index.html)
 
 This iteration describes the players' performances in gaining points, rebounds, turnovers, blocks, steals and assists. The data is visualized in spider chart. The drop down menu can help quickly filter the players by team.
-[![img](https://user-images.githubusercontent.com/44181571/142353718-15cc3f28-d45e-4838-b03c-08672320f400.png)
+[![img](https://user-images.githubusercontent.com/44181571/143179663-f89f1af0-bd31-4b54-ac21-5c8fd3be8448.png)(https://vizhub.com/yichenlilyc/99b510120dcc4b4c8100a0005ee632a1)
 
 
 
