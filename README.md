@@ -49,16 +49,19 @@ The bar chart helps answer the second and third question. The player that has th
 This iteration describes the players' wins/losses in the team. Instead of using the pie chart, I used the bar chart to show the total games that the player played and use different color indexes to show the number of wins and losses.
 [![img](https://user-images.githubusercontent.com/44181571/139180976-ec0a9197-663f-4e8e-877d-2d8dccba780b.png)](https://vizhub.com/yichenlilyc/539d25adc25942359d0cd205959603f0?edit=files&file=index.js)
 
-### 11/03/2021
+### 11/10/2021
 This iteration describes the players' state in Bar chart. In this chart, the X-axis Represents the player's name. Users can use the dropdown menu to choose the team and filter the data. There is also a dropdown menu for the Y-axis representation. For the rebounds data, the bar is separeated into Offensive Rebounds and Defensive Rebounds.
 [![img](https://user-images.githubusercontent.com/44181571/141229232-c81b2f41-e227-4d7a-a842-8defe4ba5f22.png)](https://vizhub.com/yichenlilyc/584f1db67d254305aec291f72a296c8d?edit=files&file=index.html)
 
-### 11/10/2021
+### 11/17/2021
 This iteration describes the players' performances in gaining points, rebounds, turnovers, blocks, steals and assists. The data is visualized in spider chart. The drop down menu can help quickly filter the players by team.
 [![img](https://user-images.githubusercontent.com/44181571/143179663-f89f1af0-bd31-4b54-ac21-5c8fd3be8448.png)](https://vizhub.com/yichenlilyc/99b510120dcc4b4c8100a0005ee632a1?edit=files&file=index.js)
 
-### 11/24/2021
+### 11/24/2021 & 12/01/2021
 This iteration is created based on the last iteration. A pie chart is added to depict players' total wins and losses during the season.
 [![img](https://user-images.githubusercontent.com/44181571/143282214-6cc35cba-db86-4ed1-a646-e775a4318f3e.png)](https://vizhub.com/yichenlilyc/c9cb841318ac47e4ab1c0aad0bed8b76?edit=files&file=index.html)
+
+In this iteration, the label of axes are added to the spider chart. A hover interaction is added to all the dots in the spider chart. When the mouse cursor is on, the accurate number will show up.
+[![img](https://user-images.githubusercontent.com/44181571/144335940-b0839f6d-7563-40fa-9428-faab950afc0b.png)](https://vizhub.com/yichenlilyc/825ccc94175143e2add9e45b98efc2d4?edit=files&file=index.js)
 
 
