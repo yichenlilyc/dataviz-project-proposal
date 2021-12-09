@@ -12,6 +12,12 @@ The following tasks and questions drive the visualization and interaction decisi
 * What is the score distribution in each team?
 * Who are the players that are good at field goals/ 3 score field goals?
 
+## Prototypes
+* NBA players' Efficiency Scatter Plot: In this scatter plot, the representation of y-axis can be changed by te selection box, and darker color shows higher efficiency. 
+[![Screen Shot 2021-09-22 at 18 42 54](https://user-images.githubusercontent.com/44181571/134443425-82365ff4-8499-4170-92f6-18dca65c3d31.png)](https://vizhub.com/yichenlilyc/d692441922ab4bb4ac3e53081d7fe0af)
+* LAL NBA Player Scoring Bar Chart: In this chart, the scores are sorted in descending order. The horizontal line depicts the mean score of the team.
+[![Screen Shot 2021-10-13 at 14 43 01](https://user-images.githubusercontent.com/44181571/137216684-4c15e5d4-fa78-480d-aaa6-fcfb0e8ca62d.png)](https://vizhub.com/yichenlilyc/0baca9e766834caba2b65d6d6e21b436) 
+
 ## Sketches
 ![IMG_0036](https://user-images.githubusercontent.com/44181571/137221818-8d0fe0d0-fdcc-4ff5-ad55-7dd3c1640279.jpg)
 The data is visualized in scatter plot. In the picture, each point represents a player. The red and blue color represents Western and Eastern Team respectively. All the points are interactable, when hovering on the point, the name of the player will come out. 
