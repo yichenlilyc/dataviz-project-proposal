@@ -50,7 +50,7 @@ The bar chart helps answer the second and third question. The player that has th
 ## Iterations
 ### NBA Player Efficiency Scatter Plot
 In this scatter plot, the efficiency of all the players are depicted. In the plot, each dot represents a player in the league. The hover effect is applied to all the dots. The name of the player pops out when the mouse cursor is on the dot. The drop down menu enables users to choose the representation of the x-axis and y-axis. I used the different color hue to show the efficiency. When the x-axis is set as the average time that the player played in each game, the darker the color shows the higher efficiency.
-[![img](https://user-images.githubusercontent.com/44181571/145342614-b0584b3b-e36d-4ed8-8cf9-1adbbbfa6f86.png)]
+[![img](https://user-images.githubusercontent.com/44181571/145342614-b0584b3b-e36d-4ed8-8cf9-1adbbbfa6f86.png)](https://vizhub.com/yichenlilyc/7a8c7838797c46f48ce0224661ab3e0c)
 
 ### NBA Player Games Played Bar Chart
 This iteration describes the players' wins/losses in the team. Instead of using the pie chart as I originally designed in sketches, I used the bar chart to show the total games that the player played and use different color indexes to show the number of wins and losses. The dropdown menu can be used to change the team. The players are ordered decently by the total games they've played during the season.
