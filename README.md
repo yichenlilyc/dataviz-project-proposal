@@ -9,7 +9,7 @@ In this project, the [NBA Players' state](https://gist.github.com/yichenlilyc/e8
 ## Questions and Tasks
 The following tasks and questions drive the visualization and interaction decisions for this project:
 * Who are the players that have high scoring/assists/blocks efficiency?
-* What is the score distribution in each team?
+* What is the score/skill distribution in each team?
 * Who are the players that are good at field goals/ 3 score field goals?
 
 ## Prototypes
@@ -65,4 +65,6 @@ There are two plots in this iteration. The left one is a spider chart, which des
 [![img](https://user-images.githubusercontent.com/44181571/144335940-b0839f6d-7563-40fa-9428-faab950afc0b.png)](https://vizhub.com/yichenlilyc/825ccc94175143e2add9e45b98efc2d4?edit=files&file=index.js)
 
 ## Summary
+The interactable visualizations I created in this project enables the readers to intuitively view and compare the NBA player's state data from three dimensions: the league, the team and the player himself. In the scatter plot, the state data of all the players in the league are represented. By changing the representation of x and y axis, the first question: *Who are the players that have high scoring/assists/blocks efficiency?* can be answered. The two bar charts shows the players' state within the team. From these two charts, we can easily answer the second question: *What is the score/skill distribution in each team?* and the third question: *Who are the players that are good at field goals/ 3 score field goals?*. The spider chart shows the detailed data for each player. From this chart, we can know about the strength and weakness of each player. 
 
+For the future work, some interactions can be added to link all these charts.
