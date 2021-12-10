@@ -1,5 +1,8 @@
 # Data Visualization Project
 
+## Video
+https://youtu.be/dD_1f7LaTEA
+
 ## Project Description
 In this project, the [NBA Players' state](https://gist.github.com/yichenlilyc/e82f39f103162cda7efc2c5662e203fd) in 2020~2021 season is visualized. The original data is collected from the [NBA official website](https://www.nba.com/stats/players/traditional/?sort=TD3&dir=-1). In the project, the dataset is visualized in scatter plot, bar chart, spider chart and pie chart. The visualizations are implemented with d3.js and react.js on [VizHub](https://vizhub.com/).
 
